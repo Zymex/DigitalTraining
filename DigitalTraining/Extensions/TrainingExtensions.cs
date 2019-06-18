@@ -1,4 +1,5 @@
 ﻿using DigitalTraining._ApplicationModels;
+using DigitalTraining._ApplicationModels.GeneralTraining;
 using DigitalTraining.Context;
 using System;
 using System.Collections.Generic;
